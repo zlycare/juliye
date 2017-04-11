@@ -1,0 +1,8 @@
+title: Juliye Recruiting
+description: Juliye公司简介 & 招聘信息
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
